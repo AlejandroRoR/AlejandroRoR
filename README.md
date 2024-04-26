@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Alejandro Rodríguez Romero</h1>
 <h3 align="center">Un apasionado desarrollador web de España.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandroror&label=Profile%20views&color=0e75b6&style=flat" alt="alejandroror" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandroror&label=Visitas%20perfil&color=0e75b6&style=flat" alt="alejandroror" /> </p>
 
 - 🌱 Actualmente estoy aprendiendo **Flutter y Unreal Engine**
 
